@@ -10,6 +10,7 @@ Set the JAVA_HOME to C:\ProgramXX\Java\jdk1.8.0_XX\bin --> depending on if its 3
 Add the JAVA_HOME to the PATH variable as well
 
 ![Imageshowing the version](https://github.com/pioust1/TechDailyTips/blob/main/Display1.PNG)
+<img src="Display1.PNG" alt="Java Version"/>
 
 Packages in Java --?
 
