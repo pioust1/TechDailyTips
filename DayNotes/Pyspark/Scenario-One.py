@@ -39,7 +39,7 @@ def main():
     schema_file = "value_one  string , value_two string"
     read_file = spark_session.read.format("csv").schema(schema_file). \
         load(
-       "C:\\Users\pious.tiwari\OneDrive - Accenture\CANADA\INTERVIEW\SPARK\practice\Scenario1Dataset\\scenario-one.csv")
+       "XXXXX")
     read_file.printSchema()
     read_file.show(2, truncate=False)
     # first we split the value using split function , it will create an array (list)
